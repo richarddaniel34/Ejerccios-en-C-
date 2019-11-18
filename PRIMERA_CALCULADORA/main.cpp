@@ -30,7 +30,8 @@ int main ()
 	printf (" INGRESA EL SEGUNDO NUMERO: ");
 	scanf ("%d",&segundoNumero);
 	
-	printf ("¿Que operacion desea realizar: \n\n");
+	// El menu se puede hacer en una linea utilizando \n.
+	printf ("Â¿Que operacion desea realizar: \n\n");
 	printf ("===============================\n");
 	printf (" 1 = SUMA\n");
 	printf (" 2 = RESTA\n");
